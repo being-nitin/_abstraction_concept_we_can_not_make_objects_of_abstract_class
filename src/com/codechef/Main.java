@@ -8,7 +8,7 @@ public class Main {
 	if we make objects of abstract class i'e
 	Bank b1 = new Bank
 	it will show an error and compiler will
-	ask you to override the method in it too
+	ask you to override the method in it too.
 	 */
         Scanner sc = new Scanner(System.in);
         Sbi s1 = new Sbi();
